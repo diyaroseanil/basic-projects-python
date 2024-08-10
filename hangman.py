@@ -5,7 +5,7 @@ x = random.choice(words)
 word_display = ['_' for _ in x]
 attempts = 8
 
-print("Welcome to Hangman!")
+print("Let's play Hangman!")
 print(' '.join(word_display))
 
 
